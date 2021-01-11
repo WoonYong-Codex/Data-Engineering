@@ -14,4 +14,4 @@ Step 2: Parse the content of web using Web Parsing library Beautiful Soup.<br>
 Step 3: Save result to DataFrame format.<br>
 
 Objective<br>
-From the NEWS website shows the process of Parsing and Collecting information, by using "Requests" library to make an HTTP request and collect the HTML. Check for the connection information and scrape the HTML with using "Beautiful Soup". Target to retrieve the Title, Header (H1 and H2) and HTML elements on the page by the tag name (2 tag name).
+From the NEWS website, shows the process of Parsing and Collecting information by using "Requests" library to make an HTTP request and collect the HTML. Check for the connection information and scrape the HTML with using "Beautiful Soup". Target to retrieve the Title, Header (H1 and H2) and HTML elements on the page by the tag name (2 tag name).
